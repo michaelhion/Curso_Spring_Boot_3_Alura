@@ -1,0 +1,1 @@
+alter table pacientes MODIFY COLUMN telefone varchar(20) not null;
