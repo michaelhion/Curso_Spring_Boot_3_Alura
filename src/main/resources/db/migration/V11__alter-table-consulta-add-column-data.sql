@@ -1,0 +1,1 @@
+alter table consultas add column data datetime not null;
